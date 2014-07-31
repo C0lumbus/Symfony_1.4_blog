@@ -1,0 +1,7 @@
+propel:
+  blog_article:
+    _attributes: { phpName: Article }
+    id:          ~
+    title:       { type: varchar(255), required: true }
+    content:     { type: varchar(500) }
+    created_at:  ~

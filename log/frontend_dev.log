@@ -1,0 +1,1480 @@
+Jul 31 09:40:17 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:40:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:40:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:40:17 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:40:17 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:40:17 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:40:17 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:40:17 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:40:17 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:40:17 symfony [info] {sfWebDebugLogger} Configuration 35.82 ms (10)
+Jul 31 09:40:17 symfony [info] {sfWebDebugLogger} Factories 41.03 ms (1)
+Jul 31 09:40:17 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jul 31 09:40:17 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.30 ms (1)
+Jul 31 09:40:17 symfony [info] {sfWebResponse} Send content (30192 o)
+Jul 31 09:40:20 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:40:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:40:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:40:20 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:40:20 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:40:20 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:40:20 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:40:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:40:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:40:20 symfony [info] {sfWebDebugLogger} Configuration 0.72 ms (9)
+Jul 31 09:40:20 symfony [info] {sfWebDebugLogger} Factories 11.59 ms (1)
+Jul 31 09:40:20 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Jul 31 09:40:20 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 5.11 ms (1)
+Jul 31 09:40:20 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:40:23 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:40:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:40:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:40:23 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:40:23 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:40:23 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:40:23 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:40:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:40:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:40:23 symfony [info] {sfWebDebugLogger} Configuration 0.64 ms (9)
+Jul 31 09:40:23 symfony [info] {sfWebDebugLogger} Factories 11.48 ms (1)
+Jul 31 09:40:23 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jul 31 09:40:23 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.69 ms (1)
+Jul 31 09:40:23 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:06 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:06 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:06 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:06 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:06 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:06 symfony [info] {sfWebDebugLogger} Configuration 0.62 ms (9)
+Jul 31 09:41:06 symfony [info] {sfWebDebugLogger} Factories 10.94 ms (1)
+Jul 31 09:41:06 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jul 31 09:41:06 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.83 ms (1)
+Jul 31 09:41:06 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:07 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:07 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:07 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:07 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:07 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:07 symfony [info] {sfWebDebugLogger} Configuration 0.62 ms (9)
+Jul 31 09:41:07 symfony [info] {sfWebDebugLogger} Factories 11.50 ms (1)
+Jul 31 09:41:07 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Jul 31 09:41:07 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.49 ms (1)
+Jul 31 09:41:07 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:08 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:08 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:08 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:08 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:08 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:08 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:08 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:08 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (9)
+Jul 31 09:41:08 symfony [info] {sfWebDebugLogger} Factories 10.84 ms (1)
+Jul 31 09:41:08 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jul 31 09:41:08 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.55 ms (1)
+Jul 31 09:41:08 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:08 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:08 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:08 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:08 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:08 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:08 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:08 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:08 symfony [info] {sfWebDebugLogger} Configuration 0.62 ms (9)
+Jul 31 09:41:08 symfony [info] {sfWebDebugLogger} Factories 11.01 ms (1)
+Jul 31 09:41:08 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jul 31 09:41:08 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.75 ms (1)
+Jul 31 09:41:08 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:08 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:08 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:08 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:08 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:08 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:08 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:08 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:08 symfony [info] {sfWebDebugLogger} Configuration 0.62 ms (9)
+Jul 31 09:41:08 symfony [info] {sfWebDebugLogger} Factories 11.37 ms (1)
+Jul 31 09:41:08 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jul 31 09:41:08 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.57 ms (1)
+Jul 31 09:41:08 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:09 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:09 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Configuration 0.62 ms (9)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Factories 11.05 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.58 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:09 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:09 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Configuration 0.65 ms (9)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Factories 11.23 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.88 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:09 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:09 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Configuration 0.61 ms (9)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Factories 11.17 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Action "default/index" 0.10 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.83 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:09 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:09 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Configuration 0.75 ms (9)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Factories 11.76 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Action "default/index" 0.10 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 5.41 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:09 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:09 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:09 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:09 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:09 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Configuration 0.68 ms (9)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Factories 11.01 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.53 ms (1)
+Jul 31 09:41:09 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:10 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:10 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Configuration 0.60 ms (9)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Factories 13.68 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.68 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:10 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:10 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Configuration 0.83 ms (9)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Factories 13.37 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Action "default/index" 0.15 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.31 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:10 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:10 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Configuration 0.66 ms (9)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Factories 11.08 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 5.49 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:10 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:10 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Configuration 0.64 ms (9)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Factories 13.04 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.66 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:10 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:10 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Configuration 0.67 ms (9)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Factories 11.62 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.68 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:10 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:10 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:10 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Configuration 2.97 ms (9)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Factories 12.24 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.80 ms (1)
+Jul 31 09:41:10 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:11 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:11 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:11 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:11 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:11 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:11 symfony [info] {sfWebDebugLogger} Configuration 0.85 ms (9)
+Jul 31 09:41:11 symfony [info] {sfWebDebugLogger} Factories 10.88 ms (1)
+Jul 31 09:41:11 symfony [info] {sfWebDebugLogger} Action "default/index" 0.13 ms (1)
+Jul 31 09:41:11 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.42 ms (1)
+Jul 31 09:41:11 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:41:11 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:11 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:11 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:11 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:11 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:11 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:11 symfony [info] {sfWebDebugLogger} Configuration 0.74 ms (9)
+Jul 31 09:41:11 symfony [info] {sfWebDebugLogger} Factories 114.69 ms (1)
+Jul 31 09:41:11 symfony [info] {sfWebDebugLogger} Action "default/index" 0.17 ms (1)
+Jul 31 09:41:11 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 5.53 ms (1)
+Jul 31 09:41:11 symfony [info] {sfWebResponse} Send content (30222 o)
+Jul 31 09:41:11 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:11 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:11 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:11 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:11 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:11 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:11 symfony [info] {sfWebDebugLogger} Configuration 0.91 ms (9)
+Jul 31 09:41:11 symfony [info] {sfWebDebugLogger} Factories 73.47 ms (1)
+Jul 31 09:41:11 symfony [info] {sfWebDebugLogger} Action "default/index" 0.15 ms (1)
+Jul 31 09:41:11 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 5.61 ms (1)
+Jul 31 09:41:11 symfony [info] {sfWebResponse} Send content (30220 o)
+Jul 31 09:41:44 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:41:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:41:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:41:44 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:41:44 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:41:44 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:44 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:41:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:41:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:41:44 symfony [info] {sfWebDebugLogger} Configuration 0.68 ms (9)
+Jul 31 09:41:44 symfony [info] {sfWebDebugLogger} Factories 11.01 ms (1)
+Jul 31 09:41:44 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Jul 31 09:41:44 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 5.31 ms (1)
+Jul 31 09:41:44 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:47:26 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:47:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:47:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:47:26 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:47:26 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:47:26 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:47:26 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:47:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:47:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:47:26 symfony [info] {sfWebDebugLogger} Configuration 0.66 ms (9)
+Jul 31 09:47:26 symfony [info] {sfWebDebugLogger} Factories 11.26 ms (1)
+Jul 31 09:47:26 symfony [info] {sfWebDebugLogger} Action "default/index" 0.09 ms (1)
+Jul 31 09:47:26 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.70 ms (1)
+Jul 31 09:47:26 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:47:29 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 09:47:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:47:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:47:29 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 09:47:29 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 09:47:29 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:47:29 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 09:47:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:47:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:47:29 symfony [info] {sfWebDebugLogger} Configuration 0.60 ms (9)
+Jul 31 09:47:29 symfony [info] {sfWebDebugLogger} Factories 10.93 ms (1)
+Jul 31 09:47:29 symfony [info] {sfWebDebugLogger} Action "default/index" 0.12 ms (1)
+Jul 31 09:47:29 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.63 ms (1)
+Jul 31 09:47:29 symfony [info] {sfWebResponse} Send content (30221 o)
+Jul 31 09:47:37 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /home with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 09:47:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:47:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:47:37 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 09:47:37 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 09:47:37 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 09:47:37 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 09:47:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:47:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:47:37 symfony [info] {sfWebDebugLogger} Configuration 11.50 ms (10)
+Jul 31 09:47:37 symfony [info] {sfWebDebugLogger} Factories 14.74 ms (1)
+Jul 31 09:47:37 symfony [info] {sfWebDebugLogger} Action "home/index" 0.09 ms (1)
+Jul 31 09:47:37 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 6.34 ms (1)
+Jul 31 09:47:37 symfony [info] {sfWebResponse} Send content (28367 o)
+Jul 31 09:58:25 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 09:58:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:58:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:58:25 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 09:58:25 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.5 MB | mempeak:    8.5 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 09:58:25 symfony [debug] {sfPropelLogger} time:  0.002 sec | slow:  NO | mem:    8.8 MB | mempeak:    8.8 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 09:58:25 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 09:58:25 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 09:58:25 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 09:58:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:58:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:58:25 symfony [info] {sfWebDebugLogger} Configuration 50.75 ms (9)
+Jul 31 09:58:25 symfony [info] {sfWebDebugLogger} Factories 39.80 ms (1)
+Jul 31 09:58:25 symfony [info] {sfWebDebugLogger} Action "post/index" 12.62 ms (1)
+Jul 31 09:58:25 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 6.66 ms (1)
+Jul 31 09:58:25 symfony [info] {sfWebResponse} Send content (31122 o)
+Jul 31 09:58:32 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 09:58:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:58:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:58:32 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 09:58:32 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 09:58:32 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 09:58:32 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 09:58:32 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 09:58:32 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 09:58:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:58:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:58:32 symfony [info] {sfWebDebugLogger} Configuration 0.68 ms (9)
+Jul 31 09:58:32 symfony [info] {sfWebDebugLogger} Factories 11.14 ms (1)
+Jul 31 09:58:32 symfony [info] {sfWebDebugLogger} Action "post/index" 7.78 ms (1)
+Jul 31 09:58:32 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.18 ms (1)
+Jul 31 09:58:32 symfony [info] {sfWebResponse} Send content (31151 o)
+Jul 31 09:58:43 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /home with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 09:58:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 09:58:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 09:58:43 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 09:58:43 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 09:58:43 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 09:58:43 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 09:58:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 09:58:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 09:58:43 symfony [info] {sfWebDebugLogger} Configuration 9.04 ms (10)
+Jul 31 09:58:43 symfony [info] {sfWebDebugLogger} Factories 11.49 ms (1)
+Jul 31 09:58:43 symfony [info] {sfWebDebugLogger} Action "home/index" 0.09 ms (1)
+Jul 31 09:58:43 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 6.10 ms (1)
+Jul 31 09:58:43 symfony [info] {sfWebResponse} Send content (28479 o)
+Jul 31 10:00:42 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:00:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:00:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:00:42 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:00:42 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:00:42 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:00:42 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:00:42 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:00:42 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:00:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:00:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:00:42 symfony [info] {sfWebDebugLogger} Configuration 0.72 ms (9)
+Jul 31 10:00:42 symfony [info] {sfWebDebugLogger} Factories 11.04 ms (1)
+Jul 31 10:00:42 symfony [info] {sfWebDebugLogger} Action "post/index" 7.69 ms (1)
+Jul 31 10:00:42 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 4.76 ms (1)
+Jul 31 10:00:42 symfony [info] {sfWebResponse} Send content (31151 o)
+Jul 31 10:01:05 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:01:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:01:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:01:05 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:01:05 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:01:05 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:01:05 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:01:05 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:01:05 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:01:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:01:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:01:05 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (9)
+Jul 31 10:01:05 symfony [info] {sfWebDebugLogger} Factories 10.95 ms (1)
+Jul 31 10:01:05 symfony [info] {sfWebDebugLogger} Action "post/index" 7.07 ms (1)
+Jul 31 10:01:05 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 4.82 ms (1)
+Jul 31 10:01:05 symfony [info] {sfWebResponse} Send content (31151 o)
+Jul 31 10:01:08 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /post/new with parameters array (  'module' => 'post',  'action' => 'new',)
+Jul 31 10:01:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:01:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:01:08 symfony [info] {postActions} Call "postActions->executeNew()"
+Jul 31 10:01:08 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/newSuccess.php"
+Jul 31 10:01:08 symfony [info] {sfPartialView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/_form.php"
+Jul 31 10:01:08 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:01:08 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:01:08 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:01:08 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:01:08 symfony [info] {sfWebDebugLogger} Configuration 0.75 ms (9)
+Jul 31 10:01:08 symfony [info] {sfWebDebugLogger} Factories 11.14 ms (1)
+Jul 31 10:01:08 symfony [info] {sfWebDebugLogger} Action "post/new" 8.90 ms (1)
+Jul 31 10:01:08 symfony [info] {sfWebDebugLogger} View "Success" for "post/new" 11.27 ms (1)
+Jul 31 10:01:08 symfony [info] {sfWebDebugLogger} Partial "post/_form" 6.29 ms (1)
+Jul 31 10:01:08 symfony [info] {sfWebResponse} Send content (38304 o)
+Jul 31 10:01:13 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:01:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:01:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:01:13 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:01:13 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:01:13 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:01:13 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:01:13 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:01:13 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:01:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:01:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:01:13 symfony [info] {sfWebDebugLogger} Configuration 0.62 ms (9)
+Jul 31 10:01:13 symfony [info] {sfWebDebugLogger} Factories 10.91 ms (1)
+Jul 31 10:01:13 symfony [info] {sfWebDebugLogger} Action "post/index" 7.10 ms (1)
+Jul 31 10:01:13 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 4.61 ms (1)
+Jul 31 10:01:13 symfony [info] {sfWebResponse} Send content (31119 o)
+Jul 31 10:01:38 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /post/new with parameters array (  'module' => 'post',  'action' => 'new',)
+Jul 31 10:01:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:01:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:01:38 symfony [info] {postActions} Call "postActions->executeNew()"
+Jul 31 10:01:38 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/newSuccess.php"
+Jul 31 10:01:38 symfony [info] {sfPartialView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/_form.php"
+Jul 31 10:01:38 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:01:38 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:01:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:01:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:01:38 symfony [info] {sfWebDebugLogger} Configuration 0.84 ms (9)
+Jul 31 10:01:38 symfony [info] {sfWebDebugLogger} Factories 15.04 ms (1)
+Jul 31 10:01:38 symfony [info] {sfWebDebugLogger} Action "post/new" 9.20 ms (1)
+Jul 31 10:01:38 symfony [info] {sfWebDebugLogger} View "Success" for "post/new" 11.23 ms (1)
+Jul 31 10:01:38 symfony [info] {sfWebDebugLogger} Partial "post/_form" 6.23 ms (1)
+Jul 31 10:01:38 symfony [info] {sfWebResponse} Send content (38304 o)
+Jul 31 10:01:54 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /post/create with parameters array (  'module' => 'post',  'action' => 'create',)
+Jul 31 10:01:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:01:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:01:54 symfony [info] {postActions} Call "postActions->executeCreate()"
+Jul 31 10:01:54 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.3 MB | mempeak:    8.3 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:01:54 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.8 MB | mempeak:    8.8 MB | memdelta:      0.0 B | INSERT INTO blog_article (`ID`,`TITLE`,`CONTENT`,`CREATED_AT`) VALUES (NULL,'Test article','Test content over here','2014-07-31 10:01:54')
+Jul 31 10:01:54 symfony [info] {sfFrontWebController} Redirect to "http://localhost/sf_sandbox/web/frontend_dev.php/post/edit/id/1"
+Jul 31 10:01:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 302 Found"
+Jul 31 10:01:54 symfony [info] {sfWebResponse} Send header "Location: http://localhost/sf_sandbox/web/frontend_dev.php/post/edit/id/1"
+Jul 31 10:01:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:01:54 symfony [info] {sfWebDebugLogger} Configuration 0.76 ms (8)
+Jul 31 10:01:54 symfony [info] {sfWebDebugLogger} Factories 12.90 ms (1)
+Jul 31 10:01:54 symfony [info] {sfWebDebugLogger} Action "post/create" 15.54 ms (1)
+Jul 31 10:01:54 symfony [info] {sfWebResponse} Send content (134 o)
+Jul 31 10:01:54 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /post/edit/id/1 with parameters array (  'module' => 'post',  'action' => 'edit',  'id' => '1',)
+Jul 31 10:01:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:01:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:01:54 symfony [info] {postActions} Call "postActions->executeEdit()"
+Jul 31 10:01:54 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:01:54 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article` WHERE blog_article.ID='1'
+Jul 31 10:01:54 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/editSuccess.php"
+Jul 31 10:01:54 symfony [info] {sfPartialView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/_form.php"
+Jul 31 10:01:54 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:01:54 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:01:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:01:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:01:54 symfony [info] {sfWebDebugLogger} Configuration 0.62 ms (9)
+Jul 31 10:01:54 symfony [info] {sfWebDebugLogger} Factories 10.99 ms (1)
+Jul 31 10:01:54 symfony [info] {sfWebDebugLogger} Action "post/edit" 13.46 ms (1)
+Jul 31 10:01:54 symfony [info] {sfWebDebugLogger} View "Success" for "post/edit" 12.17 ms (1)
+Jul 31 10:01:54 symfony [info] {sfWebDebugLogger} Partial "post/_form" 6.66 ms (1)
+Jul 31 10:01:54 symfony [info] {sfWebResponse} Send content (41751 o)
+Jul 31 10:01:58 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:01:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:01:58 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:01:58 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:01:58 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:01:58 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:01:58 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:01:58 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:01:58 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:01:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:01:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:01:58 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (9)
+Jul 31 10:01:58 symfony [info] {sfWebDebugLogger} Factories 11.21 ms (1)
+Jul 31 10:01:58 symfony [info] {sfWebDebugLogger} Action "post/index" 10.00 ms (1)
+Jul 31 10:01:58 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.26 ms (1)
+Jul 31 10:01:58 symfony [info] {sfWebResponse} Send content (31415 o)
+Jul 31 10:02:15 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 10:02:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:02:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:02:15 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 10:02:15 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 10:02:15 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:02:15 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:02:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:02:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:02:15 symfony [info] {sfWebDebugLogger} Configuration 9.39 ms (10)
+Jul 31 10:02:15 symfony [info] {sfWebDebugLogger} Factories 14.14 ms (1)
+Jul 31 10:02:15 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jul 31 10:02:15 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.25 ms (1)
+Jul 31 10:02:15 symfony [info] {sfWebResponse} Send content (30273 o)
+Jul 31 10:02:18 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 10:02:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:02:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:02:18 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 10:02:18 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 10:02:18 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:02:18 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:02:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:02:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:02:18 symfony [info] {sfWebDebugLogger} Configuration 0.66 ms (9)
+Jul 31 10:02:18 symfony [info] {sfWebDebugLogger} Factories 11.22 ms (1)
+Jul 31 10:02:18 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jul 31 10:02:18 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.65 ms (1)
+Jul 31 10:02:18 symfony [info] {sfWebResponse} Send content (30303 o)
+Jul 31 10:02:21 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:02:21 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:02:21 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:02:21 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:02:21 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:02:21 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:02:21 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:02:21 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:02:21 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:02:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:02:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:02:21 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (9)
+Jul 31 10:02:21 symfony [info] {sfWebDebugLogger} Factories 11.46 ms (1)
+Jul 31 10:02:21 symfony [info] {sfWebDebugLogger} Action "post/index" 8.33 ms (1)
+Jul 31 10:02:21 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 4.86 ms (1)
+Jul 31 10:02:21 symfony [info] {sfWebResponse} Send content (31414 o)
+Jul 31 10:02:23 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:02:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:02:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:02:23 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:02:23 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:02:23 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:02:23 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:02:23 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:02:23 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:02:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:02:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:02:23 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (9)
+Jul 31 10:02:23 symfony [info] {sfWebDebugLogger} Factories 10.90 ms (1)
+Jul 31 10:02:23 symfony [info] {sfWebDebugLogger} Action "post/index" 8.36 ms (1)
+Jul 31 10:02:23 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 4.88 ms (1)
+Jul 31 10:02:23 symfony [info] {sfWebResponse} Send content (31446 o)
+Jul 31 10:02:25 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 10:02:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:02:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:02:25 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 10:02:25 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 10:02:25 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:02:25 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:02:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:02:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:02:25 symfony [info] {sfWebDebugLogger} Configuration 0.59 ms (9)
+Jul 31 10:02:25 symfony [info] {sfWebDebugLogger} Factories 10.84 ms (1)
+Jul 31 10:02:25 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jul 31 10:02:25 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.45 ms (1)
+Jul 31 10:02:25 symfony [info] {sfWebResponse} Send content (30271 o)
+Jul 31 10:04:12 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /home with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:04:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:04:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:04:12 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:04:12 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:04:12 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:04:12 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:04:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:04:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:04:12 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (9)
+Jul 31 10:04:12 symfony [info] {sfWebDebugLogger} Factories 11.10 ms (1)
+Jul 31 10:04:12 symfony [info] {sfWebDebugLogger} Action "home/index" 0.09 ms (1)
+Jul 31 10:04:12 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.50 ms (1)
+Jul 31 10:04:12 symfony [info] {sfWebResponse} Send content (28445 o)
+Jul 31 10:04:19 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:04:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:04:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:04:19 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:04:19 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:04:19 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:04:19 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:04:19 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:04:19 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:04:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:04:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:04:19 symfony [info] {sfWebDebugLogger} Configuration 0.78 ms (9)
+Jul 31 10:04:19 symfony [info] {sfWebDebugLogger} Factories 11.71 ms (1)
+Jul 31 10:04:19 symfony [info] {sfWebDebugLogger} Action "post/index" 8.63 ms (1)
+Jul 31 10:04:19 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 4.96 ms (1)
+Jul 31 10:04:19 symfony [info] {sfWebResponse} Send content (31322 o)
+Jul 31 10:04:59 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /home with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:04:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:04:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:04:59 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:04:59 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:04:59 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:04:59 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:04:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:04:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:04:59 symfony [info] {sfWebDebugLogger} Configuration 0.62 ms (9)
+Jul 31 10:04:59 symfony [info] {sfWebDebugLogger} Factories 11.03 ms (1)
+Jul 31 10:04:59 symfony [info] {sfWebDebugLogger} Action "home/index" 0.08 ms (1)
+Jul 31 10:04:59 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.47 ms (1)
+Jul 31 10:04:59 symfony [info] {sfWebResponse} Send content (28445 o)
+Jul 31 10:05:00 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 10:05:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:05:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:05:00 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 10:05:00 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 10:05:00 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:05:00 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:05:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:05:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:05:00 symfony [info] {sfWebDebugLogger} Configuration 0.61 ms (9)
+Jul 31 10:05:00 symfony [info] {sfWebDebugLogger} Factories 11.20 ms (1)
+Jul 31 10:05:00 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Jul 31 10:05:00 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 5.11 ms (1)
+Jul 31 10:05:00 symfony [info] {sfWebResponse} Send content (30271 o)
+Jul 31 10:05:03 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jul 31 10:05:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:05:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:05:03 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jul 31 10:05:03 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jul 31 10:05:03 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:05:03 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:05:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:05:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:05:03 symfony [info] {sfWebDebugLogger} Configuration 0.72 ms (9)
+Jul 31 10:05:03 symfony [info] {sfWebDebugLogger} Factories 11.76 ms (1)
+Jul 31 10:05:03 symfony [info] {sfWebDebugLogger} Action "default/index" 0.10 ms (1)
+Jul 31 10:05:03 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.72 ms (1)
+Jul 31 10:05:03 symfony [info] {sfWebResponse} Send content (30303 o)
+Jul 31 10:05:51 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /home with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:05:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:05:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:05:51 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:05:51 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:05:51 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:05:51 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:05:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:05:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:05:51 symfony [info] {sfWebDebugLogger} Configuration 0.82 ms (9)
+Jul 31 10:05:51 symfony [info] {sfWebDebugLogger} Factories 11.23 ms (1)
+Jul 31 10:05:51 symfony [info] {sfWebDebugLogger} Action "home/index" 0.10 ms (1)
+Jul 31 10:05:51 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 5.12 ms (1)
+Jul 31 10:05:51 symfony [info] {sfWebResponse} Send content (29627 o)
+Jul 31 10:05:54 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /home with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:05:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:05:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:05:54 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:05:54 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:05:54 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:05:54 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:05:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:05:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:05:54 symfony [info] {sfWebDebugLogger} Configuration 0.65 ms (9)
+Jul 31 10:05:54 symfony [info] {sfWebDebugLogger} Factories 10.96 ms (1)
+Jul 31 10:05:54 symfony [info] {sfWebDebugLogger} Action "home/index" 0.10 ms (1)
+Jul 31 10:05:54 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.98 ms (1)
+Jul 31 10:05:54 symfony [info] {sfWebResponse} Send content (29659 o)
+Jul 31 10:06:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /home with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:06:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:06:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:06:01 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:06:01 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:06:01 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:06:01 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:06:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:06:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:06:01 symfony [info] {sfWebDebugLogger} Configuration 0.61 ms (9)
+Jul 31 10:06:01 symfony [info] {sfWebDebugLogger} Factories 11.01 ms (1)
+Jul 31 10:06:01 symfony [info] {sfWebDebugLogger} Action "home/index" 0.08 ms (1)
+Jul 31 10:06:01 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.45 ms (1)
+Jul 31 10:06:01 symfony [info] {sfWebResponse} Send content (28477 o)
+Jul 31 10:06:15 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /home with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:06:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:06:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:06:15 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:06:15 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:06:15 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:06:15 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:06:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:06:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:06:15 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (9)
+Jul 31 10:06:15 symfony [info] {sfWebDebugLogger} Factories 11.51 ms (1)
+Jul 31 10:06:15 symfony [info] {sfWebDebugLogger} Action "home/index" 0.09 ms (1)
+Jul 31 10:06:15 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.52 ms (1)
+Jul 31 10:06:15 symfony [info] {sfWebResponse} Send content (28477 o)
+Jul 31 10:06:28 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /home with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:06:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:06:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:06:28 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:06:28 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:06:28 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:06:28 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:06:28 symfony [err] {sfConfigurationException} The route "login" does not exist.
+Jul 31 10:06:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jul 31 10:06:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:06:28 symfony [info] {sfWebDebugLogger} Configuration 0.68 ms (9)
+Jul 31 10:06:28 symfony [info] {sfWebDebugLogger} Factories 11.51 ms (1)
+Jul 31 10:06:28 symfony [info] {sfWebDebugLogger} Action "home/index" 0.08 ms (1)
+Jul 31 10:06:28 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 25.87 ms (1)
+Jul 31 10:06:57 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /home with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:06:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:06:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:06:57 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:06:57 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:06:57 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:06:57 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:06:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:06:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:06:57 symfony [info] {sfWebDebugLogger} Configuration 18.42 ms (10)
+Jul 31 10:06:57 symfony [info] {sfWebDebugLogger} Factories 28.87 ms (1)
+Jul 31 10:06:57 symfony [info] {sfWebDebugLogger} Action "home/index" 0.08 ms (1)
+Jul 31 10:06:57 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 5.15 ms (1)
+Jul 31 10:06:57 symfony [info] {sfWebResponse} Send content (28550 o)
+Jul 31 10:06:59 symfony [info] {sfPatternRouting} Match route "login" (/login) for /login with parameters array (  'module' => 'login',  'action' => 'index',)
+Jul 31 10:06:59 symfony [info] {sfFrontWebController} Action "login/index" does not exist
+Jul 31 10:06:59 symfony [err] {sfError404Exception} Action "login/index" does not exist.
+Jul 31 10:06:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jul 31 10:06:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:06:59 symfony [info] {sfWebDebugLogger} Configuration 0.50 ms (5)
+Jul 31 10:06:59 symfony [info] {sfWebDebugLogger} Factories 11.46 ms (1)
+Jul 31 10:07:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /home with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:07:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:07:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:07:01 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:07:01 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:07:01 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:07:01 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:07:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:07:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:07:01 symfony [info] {sfWebDebugLogger} Configuration 0.60 ms (9)
+Jul 31 10:07:01 symfony [info] {sfWebDebugLogger} Factories 10.90 ms (1)
+Jul 31 10:07:01 symfony [info] {sfWebDebugLogger} Action "home/index" 0.08 ms (1)
+Jul 31 10:07:01 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.47 ms (1)
+Jul 31 10:07:01 symfony [info] {sfWebResponse} Send content (28515 o)
+Jul 31 10:08:15 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:08:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:08:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:08:15 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:08:15 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:08:15 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:08:15 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:08:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:08:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:08:15 symfony [info] {sfWebDebugLogger} Configuration 18.23 ms (10)
+Jul 31 10:08:15 symfony [info] {sfWebDebugLogger} Factories 28.18 ms (1)
+Jul 31 10:08:15 symfony [info] {sfWebDebugLogger} Action "home/index" 0.08 ms (1)
+Jul 31 10:08:15 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.54 ms (1)
+Jul 31 10:08:15 symfony [info] {sfWebResponse} Send content (28580 o)
+Jul 31 10:08:15 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:08:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:08:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:08:15 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:08:15 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:08:15 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:08:15 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:08:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:08:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:08:15 symfony [info] {sfWebDebugLogger} Configuration 0.66 ms (9)
+Jul 31 10:08:15 symfony [info] {sfWebDebugLogger} Factories 11.09 ms (1)
+Jul 31 10:08:15 symfony [info] {sfWebDebugLogger} Action "home/index" 0.08 ms (1)
+Jul 31 10:08:15 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.27 ms (1)
+Jul 31 10:08:15 symfony [info] {sfWebResponse} Send content (28610 o)
+Jul 31 10:28:32 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:28:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:28:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:28:32 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:28:32 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:28:32 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:28:32 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:28:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:28:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:28:32 symfony [info] {sfWebDebugLogger} Configuration 0.68 ms (9)
+Jul 31 10:28:32 symfony [info] {sfWebDebugLogger} Factories 11.20 ms (1)
+Jul 31 10:28:32 symfony [info] {sfWebDebugLogger} Action "home/index" 0.09 ms (1)
+Jul 31 10:28:32 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.61 ms (1)
+Jul 31 10:28:32 symfony [info] {sfWebResponse} Send content (28576 o)
+Jul 31 10:28:41 symfony [info] {sfPatternRouting} Match route "login" (/login) for /login with parameters array (  'module' => 'login',  'action' => 'index',)
+Jul 31 10:28:41 symfony [info] {sfFrontWebController} Action "login/index" does not exist
+Jul 31 10:28:41 symfony [err] {sfError404Exception} Action "login/index" does not exist.
+Jul 31 10:28:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jul 31 10:28:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:28:41 symfony [info] {sfWebDebugLogger} Configuration 0.47 ms (5)
+Jul 31 10:28:41 symfony [info] {sfWebDebugLogger} Factories 13.38 ms (1)
+Jul 31 10:31:02 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:31:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:31:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:31:02 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:31:02 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:31:02 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:31:02 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:31:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:31:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:31:02 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (9)
+Jul 31 10:31:02 symfony [info] {sfWebDebugLogger} Factories 10.85 ms (1)
+Jul 31 10:31:02 symfony [info] {sfWebDebugLogger} Action "home/index" 0.10 ms (1)
+Jul 31 10:31:02 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.77 ms (1)
+Jul 31 10:31:02 symfony [info] {sfWebResponse} Send content (28576 o)
+Jul 31 10:32:53 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:32:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:32:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:32:53 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:32:53 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:32:53 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:32:53 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:32:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:32:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:32:53 symfony [info] {sfWebDebugLogger} Configuration 5.37 ms (10)
+Jul 31 10:32:53 symfony [info] {sfWebDebugLogger} Factories 11.62 ms (1)
+Jul 31 10:32:53 symfony [info] {sfWebDebugLogger} Action "home/index" 0.09 ms (1)
+Jul 31 10:32:53 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.57 ms (1)
+Jul 31 10:32:53 symfony [info] {sfWebResponse} Send content (28578 o)
+Jul 31 10:33:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:33:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:33:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:33:01 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:33:01 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.8 MB | mempeak:    7.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:33:01 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.0 MB | mempeak:    8.0 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:33:01 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:33:01 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:33:01 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:33:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:33:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:33:01 symfony [info] {sfWebDebugLogger} Configuration 5.49 ms (10)
+Jul 31 10:33:01 symfony [info] {sfWebDebugLogger} Factories 11.43 ms (1)
+Jul 31 10:33:01 symfony [info] {sfWebDebugLogger} Action "post/index" 8.65 ms (1)
+Jul 31 10:33:01 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.01 ms (1)
+Jul 31 10:33:01 symfony [info] {sfWebResponse} Send content (31474 o)
+Jul 31 10:33:02 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:33:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:33:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:33:02 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:33:02 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:33:02 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:33:02 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:33:02 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:33:02 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:33:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:33:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:33:02 symfony [info] {sfWebDebugLogger} Configuration 0.70 ms (9)
+Jul 31 10:33:02 symfony [info] {sfWebDebugLogger} Factories 11.30 ms (1)
+Jul 31 10:33:02 symfony [info] {sfWebDebugLogger} Action "post/index" 8.21 ms (1)
+Jul 31 10:33:02 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.37 ms (1)
+Jul 31 10:33:02 symfony [info] {sfWebResponse} Send content (31504 o)
+Jul 31 10:33:04 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:33:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:33:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:33:04 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:33:04 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:33:04 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:33:04 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:33:04 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:33:04 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:33:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:33:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:33:04 symfony [info] {sfWebDebugLogger} Configuration 0.67 ms (9)
+Jul 31 10:33:04 symfony [info] {sfWebDebugLogger} Factories 11.25 ms (1)
+Jul 31 10:33:04 symfony [info] {sfWebDebugLogger} Action "post/index" 8.39 ms (1)
+Jul 31 10:33:04 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 4.95 ms (1)
+Jul 31 10:33:04 symfony [info] {sfWebResponse} Send content (31504 o)
+Jul 31 10:35:33 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:35:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:35:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:35:33 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:35:33 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.8 MB | mempeak:    7.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:35:33 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.0 MB | mempeak:    8.0 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:35:33 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:35:33 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:33 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:35:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:35:33 symfony [info] {sfWebDebugLogger} Configuration 5.65 ms (10)
+Jul 31 10:35:33 symfony [info] {sfWebDebugLogger} Factories 11.33 ms (1)
+Jul 31 10:35:33 symfony [info] {sfWebDebugLogger} Action "post/index" 8.65 ms (1)
+Jul 31 10:35:33 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.30 ms (1)
+Jul 31 10:35:33 symfony [info] {sfWebResponse} Send content (31506 o)
+Jul 31 10:35:35 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:35:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:35:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:35:35 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:35:35 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:35:35 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:35:35 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:35:35 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:35 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:35:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:35:35 symfony [info] {sfWebDebugLogger} Configuration 0.68 ms (9)
+Jul 31 10:35:35 symfony [info] {sfWebDebugLogger} Factories 10.99 ms (1)
+Jul 31 10:35:35 symfony [info] {sfWebDebugLogger} Action "post/index" 8.31 ms (1)
+Jul 31 10:35:35 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 4.71 ms (1)
+Jul 31 10:35:35 symfony [info] {sfWebResponse} Send content (31504 o)
+Jul 31 10:35:38 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /post/new with parameters array (  'module' => 'post',  'action' => 'new',)
+Jul 31 10:35:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:35:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:35:38 symfony [info] {postActions} Call "postActions->executeNew()"
+Jul 31 10:35:38 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/newSuccess.php"
+Jul 31 10:35:38 symfony [info] {sfPartialView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/_form.php"
+Jul 31 10:35:38 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:38 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:35:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:35:38 symfony [info] {sfWebDebugLogger} Configuration 0.75 ms (9)
+Jul 31 10:35:38 symfony [info] {sfWebDebugLogger} Factories 11.51 ms (1)
+Jul 31 10:35:38 symfony [info] {sfWebDebugLogger} Action "post/new" 9.01 ms (1)
+Jul 31 10:35:38 symfony [info] {sfWebDebugLogger} View "Success" for "post/new" 11.91 ms (1)
+Jul 31 10:35:38 symfony [info] {sfWebDebugLogger} Partial "post/_form" 6.24 ms (1)
+Jul 31 10:35:38 symfony [info] {sfWebResponse} Send content (38454 o)
+Jul 31 10:35:39 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /post/new with parameters array (  'module' => 'post',  'action' => 'new',)
+Jul 31 10:35:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:35:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:35:39 symfony [info] {postActions} Call "postActions->executeNew()"
+Jul 31 10:35:39 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/newSuccess.php"
+Jul 31 10:35:39 symfony [info] {sfPartialView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/_form.php"
+Jul 31 10:35:39 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:39 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:35:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:35:39 symfony [info] {sfWebDebugLogger} Configuration 0.65 ms (9)
+Jul 31 10:35:39 symfony [info] {sfWebDebugLogger} Factories 10.74 ms (1)
+Jul 31 10:35:39 symfony [info] {sfWebDebugLogger} Action "post/new" 8.92 ms (1)
+Jul 31 10:35:39 symfony [info] {sfWebDebugLogger} View "Success" for "post/new" 11.40 ms (1)
+Jul 31 10:35:39 symfony [info] {sfWebDebugLogger} Partial "post/_form" 6.26 ms (1)
+Jul 31 10:35:39 symfony [info] {sfWebResponse} Send content (38486 o)
+Jul 31 10:35:46 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /post/new with parameters array (  'module' => 'post',  'action' => 'new',)
+Jul 31 10:35:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:35:46 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Jul 31 10:35:46 symfony [info] {sfBasicSecurityFilter} Action "post/new" requires authentication, forwarding to "default/login"
+Jul 31 10:35:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:35:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:35:46 symfony [info] {defaultActions} Call "defaultActions->executeLogin()"
+Jul 31 10:35:46 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/loginSuccess.php"
+Jul 31 10:35:46 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:35:46 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:35:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:35:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:35:46 symfony [info] {sfWebDebugLogger} Configuration 6.66 ms (13)
+Jul 31 10:35:46 symfony [info] {sfWebDebugLogger} Factories 11.24 ms (1)
+Jul 31 10:35:46 symfony [info] {sfWebDebugLogger} Action "default/login" 0.09 ms (1)
+Jul 31 10:35:46 symfony [info] {sfWebDebugLogger} View "Success" for "default/login" 5.34 ms (1)
+Jul 31 10:35:46 symfony [info] {sfWebResponse} Send content (31449 o)
+Jul 31 10:35:48 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:35:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:35:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:35:48 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:35:48 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:35:48 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:35:48 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:35:48 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:48 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:35:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:35:48 symfony [info] {sfWebDebugLogger} Configuration 0.69 ms (9)
+Jul 31 10:35:48 symfony [info] {sfWebDebugLogger} Factories 11.69 ms (1)
+Jul 31 10:35:48 symfony [info] {sfWebDebugLogger} Action "post/index" 8.43 ms (1)
+Jul 31 10:35:48 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.01 ms (1)
+Jul 31 10:35:48 symfony [info] {sfWebResponse} Send content (31472 o)
+Jul 31 10:35:49 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:35:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:35:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:35:49 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:35:49 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:35:49 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:35:49 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:35:49 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:49 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:35:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:35:49 symfony [info] {sfWebDebugLogger} Configuration 0.62 ms (9)
+Jul 31 10:35:49 symfony [info] {sfWebDebugLogger} Factories 10.88 ms (1)
+Jul 31 10:35:49 symfony [info] {sfWebDebugLogger} Action "post/index" 8.04 ms (1)
+Jul 31 10:35:49 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.32 ms (1)
+Jul 31 10:35:49 symfony [info] {sfWebResponse} Send content (31504 o)
+Jul 31 10:35:50 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /post/new with parameters array (  'module' => 'post',  'action' => 'new',)
+Jul 31 10:35:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:35:50 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Jul 31 10:35:50 symfony [info] {sfBasicSecurityFilter} Action "post/new" requires authentication, forwarding to "default/login"
+Jul 31 10:35:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:35:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:35:50 symfony [info] {defaultActions} Call "defaultActions->executeLogin()"
+Jul 31 10:35:50 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/loginSuccess.php"
+Jul 31 10:35:50 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:35:50 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:35:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:35:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:35:50 symfony [info] {sfWebDebugLogger} Configuration 0.88 ms (12)
+Jul 31 10:35:50 symfony [info] {sfWebDebugLogger} Factories 11.25 ms (1)
+Jul 31 10:35:50 symfony [info] {sfWebDebugLogger} Action "default/login" 0.09 ms (1)
+Jul 31 10:35:50 symfony [info] {sfWebDebugLogger} View "Success" for "default/login" 5.11 ms (1)
+Jul 31 10:35:50 symfony [info] {sfWebResponse} Send content (31416 o)
+Jul 31 10:35:52 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:35:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:35:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:35:52 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:35:52 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:35:52 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:35:52 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:35:52 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:52 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:35:52 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:35:52 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:35:52 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (9)
+Jul 31 10:35:52 symfony [info] {sfWebDebugLogger} Factories 11.00 ms (1)
+Jul 31 10:35:52 symfony [info] {sfWebDebugLogger} Action "post/index" 8.34 ms (1)
+Jul 31 10:35:52 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 4.91 ms (1)
+Jul 31 10:35:52 symfony [info] {sfWebResponse} Send content (31472 o)
+Jul 31 10:42:00 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /post/new with parameters array (  'module' => 'post',  'action' => 'new',)
+Jul 31 10:42:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:42:00 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Jul 31 10:42:00 symfony [info] {sfBasicSecurityFilter} Action "post/new" requires authentication, forwarding to "default/login"
+Jul 31 10:42:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:42:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:42:00 symfony [info] {defaultActions} Call "defaultActions->executeLogin()"
+Jul 31 10:42:00 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/loginSuccess.php"
+Jul 31 10:42:00 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:42:00 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:42:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:42:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:42:00 symfony [info] {sfWebDebugLogger} Configuration 6.75 ms (13)
+Jul 31 10:42:00 symfony [info] {sfWebDebugLogger} Factories 12.66 ms (1)
+Jul 31 10:42:00 symfony [info] {sfWebDebugLogger} Action "default/login" 0.09 ms (1)
+Jul 31 10:42:00 symfony [info] {sfWebDebugLogger} View "Success" for "default/login" 4.94 ms (1)
+Jul 31 10:42:00 symfony [info] {sfWebResponse} Send content (31417 o)
+Jul 31 10:42:04 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:42:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:42:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:42:04 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:42:04 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:42:04 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:42:04 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:42:04 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:42:04 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:42:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:42:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:42:04 symfony [info] {sfWebDebugLogger} Configuration 0.72 ms (9)
+Jul 31 10:42:04 symfony [info] {sfWebDebugLogger} Factories 11.55 ms (1)
+Jul 31 10:42:04 symfony [info] {sfWebDebugLogger} Action "post/index" 8.51 ms (1)
+Jul 31 10:42:04 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 4.82 ms (1)
+Jul 31 10:42:04 symfony [info] {sfWebResponse} Send content (31472 o)
+Jul 31 10:58:53 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:58:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:58:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:58:53 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:58:53 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:58:53 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:58:53 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:58:53 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:58:53 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:58:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:58:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:58:53 symfony [info] {sfWebDebugLogger} Configuration 0.64 ms (9)
+Jul 31 10:58:53 symfony [info] {sfWebDebugLogger} Factories 11.59 ms (1)
+Jul 31 10:58:53 symfony [info] {sfWebDebugLogger} Action "post/index" 8.36 ms (1)
+Jul 31 10:58:53 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.07 ms (1)
+Jul 31 10:58:53 symfony [info] {sfWebResponse} Send content (31476 o)
+Jul 31 10:58:55 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:58:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:58:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:58:55 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:58:55 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:58:55 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:58:55 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:58:55 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:58:55 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:58:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:58:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:58:55 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (9)
+Jul 31 10:58:55 symfony [info] {sfWebDebugLogger} Factories 11.22 ms (1)
+Jul 31 10:58:55 symfony [info] {sfWebDebugLogger} Action "post/index" 8.48 ms (1)
+Jul 31 10:58:55 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 4.98 ms (1)
+Jul 31 10:58:55 symfony [info] {sfWebResponse} Send content (31508 o)
+Jul 31 10:58:59 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /post/new with parameters array (  'module' => 'post',  'action' => 'new',)
+Jul 31 10:58:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:58:59 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Jul 31 10:58:59 symfony [info] {sfBasicSecurityFilter} Action "post/new" requires credentials "admin", forwarding to "default/secure"
+Jul 31 10:58:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:58:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:58:59 symfony [info] {defaultActions} Call "defaultActions->executeSecure()"
+Jul 31 10:58:59 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/secureSuccess.php"
+Jul 31 10:58:59 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:58:59 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 10:58:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:58:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:58:59 symfony [info] {sfWebDebugLogger} Configuration 0.92 ms (12)
+Jul 31 10:58:59 symfony [info] {sfWebDebugLogger} Factories 12.92 ms (1)
+Jul 31 10:58:59 symfony [info] {sfWebDebugLogger} Action "default/secure" 0.09 ms (1)
+Jul 31 10:58:59 symfony [info] {sfWebDebugLogger} View "Success" for "default/secure" 4.61 ms (1)
+Jul 31 10:58:59 symfony [info] {sfWebResponse} Send content (31575 o)
+Jul 31 10:59:13 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /post with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 10:59:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:59:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:59:13 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 10:59:13 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 10:59:13 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 10:59:13 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 10:59:13 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:59:13 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:59:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:59:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:59:13 symfony [info] {sfWebDebugLogger} Configuration 0.66 ms (9)
+Jul 31 10:59:13 symfony [info] {sfWebDebugLogger} Factories 11.20 ms (1)
+Jul 31 10:59:13 symfony [info] {sfWebDebugLogger} Action "post/index" 8.35 ms (1)
+Jul 31 10:59:13 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 4.81 ms (1)
+Jul 31 10:59:13 symfony [info] {sfWebResponse} Send content (31476 o)
+Jul 31 10:59:20 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 10:59:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 10:59:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 10:59:20 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 10:59:20 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 10:59:20 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:59:20 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 10:59:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 10:59:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 10:59:20 symfony [info] {sfWebDebugLogger} Configuration 5.42 ms (10)
+Jul 31 10:59:20 symfony [info] {sfWebDebugLogger} Factories 11.45 ms (1)
+Jul 31 10:59:20 symfony [info] {sfWebDebugLogger} Action "home/index" 0.09 ms (1)
+Jul 31 10:59:20 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.96 ms (1)
+Jul 31 10:59:20 symfony [info] {sfWebResponse} Send content (28582 o)
+Jul 31 11:25:47 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 11:25:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:25:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:25:47 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 11:25:47 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 11:25:47 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:25:47 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:25:47 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:25:47 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:25:47 symfony [info] {sfWebDebugLogger} Configuration 0.85 ms (9)
+Jul 31 11:25:47 symfony [info] {sfWebDebugLogger} Factories 10.97 ms (1)
+Jul 31 11:25:47 symfony [info] {sfWebDebugLogger} Action "home/index" 0.09 ms (1)
+Jul 31 11:25:47 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.45 ms (1)
+Jul 31 11:25:47 symfony [info] {sfWebResponse} Send content (28723 o)
+Jul 31 11:25:56 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'home',  'action' => 'index',)
+Jul 31 11:25:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:25:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:25:56 symfony [info] {homeActions} Call "homeActions->executeIndex()"
+Jul 31 11:25:56 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/home/templates/indexSuccess.php"
+Jul 31 11:25:56 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:25:56 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:25:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:25:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:25:56 symfony [info] {sfWebDebugLogger} Configuration 0.64 ms (9)
+Jul 31 11:25:56 symfony [info] {sfWebDebugLogger} Factories 11.37 ms (1)
+Jul 31 11:25:56 symfony [info] {sfWebDebugLogger} Action "home/index" 0.08 ms (1)
+Jul 31 11:25:56 symfony [info] {sfWebDebugLogger} View "Success" for "home/index" 4.59 ms (1)
+Jul 31 11:25:56 symfony [info] {sfWebResponse} Send content (28802 o)
+Jul 31 11:26:56 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'posts',  'action' => 'index',)
+Jul 31 11:26:56 symfony [info] {sfFrontWebController} Action "posts/index" does not exist
+Jul 31 11:26:56 symfony [err] {sfError404Exception} Action "posts/index" does not exist.
+Jul 31 11:26:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jul 31 11:26:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:26:56 symfony [info] {sfWebDebugLogger} Configuration 17.87 ms (6)
+Jul 31 11:26:56 symfony [info] {sfWebDebugLogger} Factories 28.35 ms (1)
+Jul 31 11:27:00 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:27:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:27:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:27:00 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:27:00 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.0 MB | mempeak:    8.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:27:00 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.3 MB | mempeak:    8.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:27:00 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:27:00 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:27:00 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:27:00 symfony [err] {sfConfigurationException} The route "login" does not exist.
+Jul 31 11:27:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jul 31 11:27:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:27:00 symfony [info] {sfWebDebugLogger} Configuration 18.22 ms (10)
+Jul 31 11:27:00 symfony [info] {sfWebDebugLogger} Factories 28.37 ms (1)
+Jul 31 11:27:00 symfony [info] {sfWebDebugLogger} Action "post/index" 8.24 ms (1)
+Jul 31 11:27:00 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 22.21 ms (1)
+Jul 31 11:27:13 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:27:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:27:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:27:13 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:27:13 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:27:13 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:27:13 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:27:13 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:27:13 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:27:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:27:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:27:13 symfony [info] {sfWebDebugLogger} Configuration 0.76 ms (9)
+Jul 31 11:27:13 symfony [info] {sfWebDebugLogger} Factories 11.19 ms (1)
+Jul 31 11:27:13 symfony [info] {sfWebDebugLogger} Action "post/index" 9.46 ms (1)
+Jul 31 11:27:13 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 6.25 ms (1)
+Jul 31 11:27:13 symfony [info] {sfWebResponse} Send content (31832 o)
+Jul 31 11:27:15 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /post/new with parameters array (  'module' => 'post',  'action' => 'new',)
+Jul 31 11:27:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:27:15 symfony [info] {sfFilterChain} Executing filter "sfBasicSecurityFilter"
+Jul 31 11:27:15 symfony [info] {sfBasicSecurityFilter} Action "post/new" requires authentication, forwarding to "default/login"
+Jul 31 11:27:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:27:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:27:15 symfony [info] {defaultActions} Call "defaultActions->executeLogin()"
+Jul 31 11:27:15 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/loginSuccess.php"
+Jul 31 11:27:15 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 11:27:15 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jul 31 11:27:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:27:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:27:15 symfony [info] {sfWebDebugLogger} Configuration 1.04 ms (12)
+Jul 31 11:27:15 symfony [info] {sfWebDebugLogger} Factories 11.42 ms (1)
+Jul 31 11:27:15 symfony [info] {sfWebDebugLogger} Action "default/login" 0.09 ms (1)
+Jul 31 11:27:15 symfony [info] {sfWebDebugLogger} View "Success" for "default/login" 5.34 ms (1)
+Jul 31 11:27:15 symfony [info] {sfWebResponse} Send content (31560 o)
+Jul 31 11:27:16 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:27:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:27:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:27:16 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:27:16 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:27:16 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:27:16 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:27:16 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:27:16 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:27:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:27:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:27:16 symfony [info] {sfWebDebugLogger} Configuration 0.64 ms (9)
+Jul 31 11:27:16 symfony [info] {sfWebDebugLogger} Factories 11.34 ms (1)
+Jul 31 11:27:16 symfony [info] {sfWebDebugLogger} Action "post/index" 8.47 ms (1)
+Jul 31 11:27:16 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 4.95 ms (1)
+Jul 31 11:27:16 symfony [info] {sfWebResponse} Send content (31800 o)
+Jul 31 11:29:18 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:29:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:29:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:29:18 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:29:18 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.0 MB | mempeak:    8.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:29:18 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.3 MB | mempeak:    8.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:29:18 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:29:18 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:29:18 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:29:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:29:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:29:18 symfony [info] {sfWebDebugLogger} Configuration 18.07 ms (10)
+Jul 31 11:29:18 symfony [info] {sfWebDebugLogger} Factories 27.97 ms (1)
+Jul 31 11:29:18 symfony [info] {sfWebDebugLogger} Action "post/index" 8.40 ms (1)
+Jul 31 11:29:18 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.09 ms (1)
+Jul 31 11:29:18 symfony [info] {sfWebResponse} Send content (31912 o)
+Jul 31 11:29:23 symfony [info] {sfPatternRouting} Match route "login" (/backend/login) for /backend/login with parameters array (  'module' => 'dashboard',  'action' => 'login',)
+Jul 31 11:29:23 symfony [info] {sfFrontWebController} Action "dashboard/login" does not exist
+Jul 31 11:29:23 symfony [err] {sfError404Exception} Action "dashboard/login" does not exist.
+Jul 31 11:29:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jul 31 11:29:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:29:23 symfony [info] {sfWebDebugLogger} Configuration 0.51 ms (5)
+Jul 31 11:29:23 symfony [info] {sfWebDebugLogger} Factories 11.40 ms (1)
+Jul 31 11:29:25 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:29:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:29:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:29:25 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:29:25 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:29:25 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:29:25 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:29:25 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:29:25 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:29:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:29:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:29:25 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (9)
+Jul 31 11:29:25 symfony [info] {sfWebDebugLogger} Factories 11.16 ms (1)
+Jul 31 11:29:25 symfony [info] {sfWebDebugLogger} Action "post/index" 8.35 ms (1)
+Jul 31 11:29:25 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.19 ms (1)
+Jul 31 11:29:25 symfony [info] {sfWebResponse} Send content (31878 o)
+Jul 31 11:29:40 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:29:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:29:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:29:40 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:29:40 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.0 MB | mempeak:    8.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:29:40 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.3 MB | mempeak:    8.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:29:40 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:29:40 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:29:40 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:29:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:29:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:29:40 symfony [info] {sfWebDebugLogger} Configuration 18.13 ms (10)
+Jul 31 11:29:40 symfony [info] {sfWebDebugLogger} Factories 27.97 ms (1)
+Jul 31 11:29:40 symfony [info] {sfWebDebugLogger} Action "post/index" 8.28 ms (1)
+Jul 31 11:29:40 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.03 ms (1)
+Jul 31 11:29:40 symfony [info] {sfWebResponse} Send content (31920 o)
+Jul 31 11:29:45 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:29:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:29:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:29:45 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:29:45 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.0 MB | mempeak:    8.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:29:45 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.3 MB | mempeak:    8.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:29:45 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:29:45 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:29:45 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:29:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:29:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:29:45 symfony [info] {sfWebDebugLogger} Configuration 17.91 ms (10)
+Jul 31 11:29:45 symfony [info] {sfWebDebugLogger} Factories 27.88 ms (1)
+Jul 31 11:29:45 symfony [info] {sfWebDebugLogger} Action "post/index" 8.41 ms (1)
+Jul 31 11:29:45 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.13 ms (1)
+Jul 31 11:29:45 symfony [info] {sfWebResponse} Send content (31920 o)
+Jul 31 11:31:07 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:31:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:31:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:31:07 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:31:07 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:31:07 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:31:07 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:31:07 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:31:07 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:31:13 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:31:13 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:31:13 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:31:13 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:31:13 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:31:13 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:31:13 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:31:13 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:31:13 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:31:13 symfony [err] {sfException} Call to undefined method frontendConfiguration::generateBackendUrl.
+Jul 31 11:31:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jul 31 11:31:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:31:13 symfony [info] {sfWebDebugLogger} Configuration 0.74 ms (9)
+Jul 31 11:31:13 symfony [info] {sfWebDebugLogger} Factories 11.50 ms (1)
+Jul 31 11:31:13 symfony [info] {sfWebDebugLogger} Action "post/index" 8.42 ms (1)
+Jul 31 11:31:13 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 18.01 ms (1)
+Jul 31 11:33:59 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:33:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:33:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:33:59 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:33:59 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:33:59 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:33:59 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:33:59 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:33:59 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:33:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:33:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:33:59 symfony [info] {sfWebDebugLogger} Configuration 0.68 ms (9)
+Jul 31 11:33:59 symfony [info] {sfWebDebugLogger} Factories 11.07 ms (1)
+Jul 31 11:33:59 symfony [info] {sfWebDebugLogger} Action "post/index" 8.36 ms (1)
+Jul 31 11:33:59 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 10.81 ms (1)
+Jul 31 11:33:59 symfony [info] {sfWebResponse} Send content (31957 o)
+Jul 31 11:34:44 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:34:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:34:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:34:44 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:34:44 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.0 MB | mempeak:    8.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:34:44 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    8.3 MB | mempeak:    8.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:34:44 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:34:44 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:34:44 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:34:44 symfony [err] {sfConfigurationException} The route "login" does not exist.
+Jul 31 11:34:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jul 31 11:34:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:34:44 symfony [info] {sfWebDebugLogger} Configuration 17.70 ms (10)
+Jul 31 11:34:44 symfony [info] {sfWebDebugLogger} Factories 27.74 ms (1)
+Jul 31 11:34:44 symfony [info] {sfWebDebugLogger} Action "post/index" 8.32 ms (1)
+Jul 31 11:34:44 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 22.79 ms (1)
+Jul 31 11:34:50 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:34:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:34:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:34:50 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:34:50 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:34:50 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:34:50 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:34:50 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:34:50 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:34:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:34:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:34:50 symfony [info] {sfWebDebugLogger} Configuration 0.71 ms (9)
+Jul 31 11:34:50 symfony [info] {sfWebDebugLogger} Factories 11.04 ms (1)
+Jul 31 11:34:50 symfony [info] {sfWebDebugLogger} Action "post/index" 8.29 ms (1)
+Jul 31 11:34:50 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 9.90 ms (1)
+Jul 31 11:34:50 symfony [info] {sfWebResponse} Send content (31870 o)
+Jul 31 11:35:30 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:35:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:35:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:35:30 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:35:30 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:35:30 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:35:30 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:35:30 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:35:30 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:35:30 symfony [err] {sfConfigurationException} Unable to find a matching route to generate url for params "array (  'action' => 'backend_dev.php',  'module' => '..',)".
+Jul 31 11:35:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Jul 31 11:35:30 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:35:30 symfony [info] {sfWebDebugLogger} Configuration 0.63 ms (9)
+Jul 31 11:35:30 symfony [info] {sfWebDebugLogger} Factories 10.88 ms (1)
+Jul 31 11:35:30 symfony [info] {sfWebDebugLogger} Action "post/index" 8.35 ms (1)
+Jul 31 11:35:30 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 22.80 ms (1)
+Jul 31 11:36:06 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:36:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:36:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:36:06 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:36:06 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:36:06 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:36:06 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:36:06 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:36:06 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:36:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:36:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:36:06 symfony [info] {sfWebDebugLogger} Configuration 0.67 ms (9)
+Jul 31 11:36:06 symfony [info] {sfWebDebugLogger} Factories 11.41 ms (1)
+Jul 31 11:36:06 symfony [info] {sfWebDebugLogger} Action "post/index" 8.44 ms (1)
+Jul 31 11:36:06 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.16 ms (1)
+Jul 31 11:36:06 symfony [info] {sfWebResponse} Send content (31893 o)
+Jul 31 11:36:14 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:36:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:36:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:36:14 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:36:14 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:36:14 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:36:14 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:36:14 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:36:14 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:36:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:36:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:36:14 symfony [info] {sfWebDebugLogger} Configuration 0.64 ms (9)
+Jul 31 11:36:14 symfony [info] {sfWebDebugLogger} Factories 11.94 ms (1)
+Jul 31 11:36:14 symfony [info] {sfWebDebugLogger} Action "post/index" 9.43 ms (1)
+Jul 31 11:36:14 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.08 ms (1)
+Jul 31 11:36:14 symfony [info] {sfWebResponse} Send content (31888 o)
+Jul 31 11:36:25 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'post',  'action' => 'index',)
+Jul 31 11:36:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jul 31 11:36:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jul 31 11:36:25 symfony [info] {postActions} Call "postActions->executeIndex()"
+Jul 31 11:36:25 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    6.8 MB | mempeak:    6.8 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Jul 31 11:36:25 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    7.3 MB | mempeak:    7.3 MB | memdelta:      0.0 B | SELECT blog_article.ID, blog_article.TITLE, blog_article.CONTENT, blog_article.CREATED_AT FROM `blog_article`
+Jul 31 11:36:25 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/modules/post/templates/indexSuccess.php"
+Jul 31 11:36:25 symfony [info] {sfPHPView} Decorate content with "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:36:25 symfony [info] {sfPHPView} Render "/Users/mac_user/Dropbox/projects/htdocs/sf_sandbox/apps/frontend/templates/layout.php"
+Jul 31 11:36:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jul 31 11:36:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 31 11:36:25 symfony [info] {sfWebDebugLogger} Configuration 0.64 ms (9)
+Jul 31 11:36:25 symfony [info] {sfWebDebugLogger} Factories 11.18 ms (1)
+Jul 31 11:36:25 symfony [info] {sfWebDebugLogger} Action "post/index" 8.59 ms (1)
+Jul 31 11:36:25 symfony [info] {sfWebDebugLogger} View "Success" for "post/index" 5.06 ms (1)
+Jul 31 11:36:25 symfony [info] {sfWebResponse} Send content (31856 o)

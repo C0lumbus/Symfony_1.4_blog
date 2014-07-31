@@ -1,0 +1,33 @@
+article:
+  class: sfPropelRouteCollection
+  options:
+    model:                Article
+    module:               post
+    prefix_path:          /post
+    column:               id
+    with_wildcard_routes: true
+
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+homepage:
+  url:   /
+  param: { module: default, action: index }
+
+login:
+  url:   /login
+  param: { module: login, action: index }
+
+logout:
+  url:   /logout
+  param: { module: login, action: logout }
+
+# generic rules
+# please, remove them by adding more specific rules
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*
